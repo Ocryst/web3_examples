@@ -1,3 +1,5 @@
+//load code into app.js and on node run app.js. The code will get pulled into node and work.
+
 var Tx     = require('ethereumjs-tx')
 const Web3 = require('web3')
 const web3 = new Web3('https://ropsten.infura.io/YOUR_INFURA_API_KEY')
